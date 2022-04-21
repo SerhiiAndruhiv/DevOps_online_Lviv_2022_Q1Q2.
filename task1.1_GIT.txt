@@ -1,0 +1,17 @@
+Sergij@Laptop MINGW64 ~/Desktop/EPAM task/m1/task1.1 (master)
+$ git reflog
+423335c (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+d15e117 HEAD@{1}: checkout: moving from develop to master
+423335c (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): add.html
+09d8f3b (origin/images, images) HEAD@{3}: merge images: Fast-forward
+0ddbc5b HEAD@{4}: checkout: moving from styles to develop
+e17c0e5 (origin/styles, styles) HEAD@{5}: commit: changed_index.html
+79d27bf HEAD@{6}: commit: add_styles
+0ddbc5b HEAD@{7}: checkout: moving from develop to styles
+0ddbc5b HEAD@{8}: checkout: moving from images to develop
+09d8f3b (origin/images, images) HEAD@{9}: commit: changed_html
+3e18a11 HEAD@{10}: commit: add_image
+0ddbc5b HEAD@{11}: checkout: moving from develop to images
+0ddbc5b HEAD@{12}: commit: Index
+d15e117 HEAD@{13}: checkout: moving from master to develop
+d15e117 HEAD@{14}: commit (initial): emty_txt
